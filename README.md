@@ -1,5 +1,7 @@
 # platzi-exchangevue2
-
+```
+https://platzi-exchange-vuejs2.netlify.app/
+```
 ## Project setup
 ```
 npm install
